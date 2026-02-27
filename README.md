@@ -12,6 +12,6 @@ This is the final notebook submitted for AI Python Lab Activity 1.
 This file is the exact version accepted by Google Colab.
 
 ## Author
-Blesson Samuel
+Blesson Samuel D 
 MTech - Biomedical Instrumentation
 Karunya University
